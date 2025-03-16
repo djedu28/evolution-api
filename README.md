@@ -20,6 +20,8 @@ Este repositório contém a configuração para rodar um container com suporte a
 Renomeie o arquivo .env.exemplo para .env:
    ```bash
    mv .env.exemplo .env
+ *Observação: Substitua SEU_USUARIO, SUA_SENHA, SEU_BD, SUA_KEY e outros valores conforme necessário.*
+
 3. **Subir o container**:
 Execute o seguinte comando para construir e subir o container:
    ```bash
