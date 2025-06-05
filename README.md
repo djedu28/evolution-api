@@ -11,7 +11,7 @@ Este repositório contém a configuração para rodar um container com suporte a
 
 1. **Clone o repositório**:
    ```bash
-   git clone [(https://github.com/RosnerTech/evolution-api.git)]
+   git clone [(https://github.com/RosnerTech/....git)]
    cd seu-repositorio
    
 ## Configure as variáveis de ambiente:
